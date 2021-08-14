@@ -1,0 +1,100 @@
+.name {
+    color:red
+}
+div {
+    color: rgb(0, 0, 0)
+    /*border: 4px double black;*/
+}
+.test2 {
+    margin:0% 3% 0% 3%;
+    width:50%;
+    position:relative; 
+	height:300px;
+    
+}
+.mainBox {
+    width: 500px;
+    margin:0 auto;
+    display: flex;
+    box-sizing: border-box;
+    padding: 5px;
+}
+.imageBox{
+    width:35%;
+    /* margin:0% 10% 10% 0%; */
+}
+.infoBox{
+    width:75%;
+    padding-left:30px
+    /* margin:-47% 0% 0% 27%; */
+}
+.task2{
+    width: 500px; 
+    height: 50px;
+    margin:0 auto;
+    display: flex;
+}
+.picture1{
+    width:400px;   
+}
+
+.YouTube{
+    width:500px; 
+    height: 170px;
+    margin:0 auto;
+}
+.YouTubeimage{
+    width:400px;
+
+}
+.link-box{
+    width:250px; 
+    height: 80px;
+    margin:0 auto;
+    padding-right: 60px;
+}
+.link:visited {
+    color: green;
+  }
+.picture2{
+    width:100px;
+}
+.YouTube2{
+    width:100px;
+    height: 50px;
+}
+.mainBox1 {
+    width: 500px;
+    margin:0 auto;
+    display: flex;
+    box-sizing: border-box;
+    padding: 5px;
+}
+.mainBox2 {
+    width: 100px;
+    margin:0 auto;
+    display: flex;
+    box-sizing: border-box;
+    padding: 5px;
+    height: 60px;
+    padding-top: 60px;
+}
+.Box{
+    margin:0 auto;
+    width:500px; 
+    height: 1000px;    
+    border: 4px double rgb(109, 109, 109);
+}
+
+.parent {
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+  }
+.post div {
+    color: red;
+    font-size: 2.5em;
+    padding: 20px;
+}
+
+
